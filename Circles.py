@@ -1,3 +1,4 @@
+#Basic circle class
 class circle:
 
     def __init__(self,x_=0,y_=0,rgb_=(255,255,255),radius_=20,next_=None,fill_=True):
@@ -16,9 +17,9 @@ class circle:
         ellipse(self.x,self.y,self.radius,self.radius)
         return
 
-
+#Chain of circles object
 class circle_chain:
-
+    
     def __init__(self, initial_, num_, dx_=0, dy_=0, dradius_=0, drgb_=(0,0,0)):
         self.initial = initial_
         self.num = num_
