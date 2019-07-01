@@ -8,4 +8,10 @@ specified.
 
 The example implementation found in the CircleChain.py file created the following images:
 
+1.
+![screenshot_2](https://user-images.githubusercontent.com/36753018/60468526-c62fb000-9c0e-11e9-922b-b32fe8683d9a.png)
+
+2.
+
+
  
