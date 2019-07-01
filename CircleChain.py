@@ -1,4 +1,4 @@
-#Example implementation of the objects in Circles.py
+#Example implementation of the objects defined in Circles.py
 
 from Circles import *
 
